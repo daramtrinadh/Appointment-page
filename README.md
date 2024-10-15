@@ -60,7 +60,7 @@ This project is a React component for a doctor's profile and appointment booking
 - `src/`
   - `components/`
     -`Header.js` 
-    - `Home.js`: The main component file for the doctor's profile.
+    -`Home.js`: The main component file for the doctor's profile.
   - `images/`: Stores images used for the profile and other sections.
   - `index.css`: Contains all the styles for the component.
 
