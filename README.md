@@ -2,6 +2,9 @@
 
 This project is a React component for a doctor's profile and appointment booking page. It allows users to view the doctor's details, follow them on social media, see their areas of expertise, and book appointments with options to select the type of session and time slots.
 
+#PREVIEW
+(https://drive.google.com/file/d/1S8Im1Ilerayxw52FdP5VumZYmJoE9aFK/view?usp=sharing)
+
 ## Features
 
 - **Doctor Profile**: Displays the doctor's name, specialization, rating, and basic information.
